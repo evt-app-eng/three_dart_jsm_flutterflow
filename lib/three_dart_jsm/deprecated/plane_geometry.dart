@@ -1,5 +1,5 @@
 import 'index.dart';
-import 'package:three_dart/three_dart.dart' as three;
+import 'package:three_dart_flutterflow/three_dart.dart' as three;
 
 class PlaneGeometry extends Geometry {
   PlaneGeometry(width, height, [widthSegments = 1, heightSegments = 1]) : super() {

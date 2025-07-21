@@ -1,6 +1,6 @@
 /// https://github.com/google/model-viewer/blob/master/packages/model-viewer/src/three-components/EnvironmentScene.ts
 
-import 'package:three_dart/three_dart.dart';
+import 'package:three_dart_flutterflow/three_dart.dart';
 
 class RoomEnvironment extends Scene {
   RoomEnvironment() : super() {

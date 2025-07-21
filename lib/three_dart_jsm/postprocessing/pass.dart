@@ -1,4 +1,4 @@
-import 'package:three_dart/three_dart.dart';
+import 'package:three_dart_flutterflow/three_dart.dart';
 
 class Pass {
   // if set to true, the pass is processed by the composer

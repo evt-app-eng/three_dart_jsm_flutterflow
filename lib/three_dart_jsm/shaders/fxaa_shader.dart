@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 /// NVIDIA FXAA by Timothy Lottes
 /// http://timothylottes.blogspot.com/2011/06/fxaa3-source-released.html

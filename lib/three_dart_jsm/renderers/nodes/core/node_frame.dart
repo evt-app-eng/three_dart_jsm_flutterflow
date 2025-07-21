@@ -1,5 +1,5 @@
-import 'package:three_dart/extra/performance.dart';
-import 'package:three_dart/three_dart.dart';
+import 'package:three_dart_flutterflow/extra/performance.dart';
+import 'package:three_dart_flutterflow/three_dart.dart';
 import 'package:three_dart_jsm_flutterflow/three_dart_jsm/renderers/nodes/index.dart';
 
 class NodeFrame {

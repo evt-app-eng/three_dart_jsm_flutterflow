@@ -1,5 +1,5 @@
 import 'index.dart';
-import 'package:three_dart/three_dart.dart' as three;
+import 'package:three_dart_flutterflow/three_dart.dart' as three;
 
 class BoxGeometry extends Geometry {
   BoxGeometry(width, height, depth, [widthSegments = 1, heightSegments = 1, depthSegments = 1]) : super() {

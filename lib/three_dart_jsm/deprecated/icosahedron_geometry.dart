@@ -1,5 +1,5 @@
 import 'index.dart';
-import 'package:three_dart/three_dart.dart' as three;
+import 'package:three_dart_flutterflow/three_dart.dart' as three;
 
 class IcosahedronGeometry extends Geometry {
   IcosahedronGeometry(num radius, int detail) : super() {

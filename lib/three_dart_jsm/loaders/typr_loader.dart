@@ -1,5 +1,5 @@
 import 'dart:typed_data';
-import 'package:three_dart/three_dart.dart';
+import 'package:three_dart_flutterflow/three_dart.dart';
 
 import 'package:typr_dart/typr_dart.dart' as typr_dart;
 

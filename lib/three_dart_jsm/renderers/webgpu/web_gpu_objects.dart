@@ -1,4 +1,4 @@
-import 'package:three_dart/three_dart.dart';
+import 'package:three_dart_flutterflow/three_dart.dart';
 
 import 'index.dart';
 

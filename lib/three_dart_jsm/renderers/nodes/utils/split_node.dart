@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/math/math.dart';
+import 'package:three_dart_flutterflow/three3d/math/math.dart';
 import 'package:three_dart_jsm_flutterflow/three_dart_jsm/renderers/nodes/index.dart';
 
 class SplitNode extends Node {

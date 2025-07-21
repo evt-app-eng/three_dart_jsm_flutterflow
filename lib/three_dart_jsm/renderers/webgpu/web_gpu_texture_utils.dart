@@ -20,7 +20,7 @@
 
 // ported from https://github.com/toji/web-texture-tool/blob/master/src/webgpu-mipmap-generator.js
 
-import 'package:three_dart/extra/console.dart';
+import 'package:three_dart_flutterflow/extra/console.dart';
 
 class WebGPUTextureUtils {
   // late GPUDevice device;

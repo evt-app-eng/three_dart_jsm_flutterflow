@@ -1,5 +1,5 @@
 import 'package:flutter_gl_flutterflow/flutter_gl.dart';
-import 'package:three_dart/three_dart.dart';
+import 'package:three_dart_flutterflow/three_dart.dart';
 
 // import {
 // 	Box3,

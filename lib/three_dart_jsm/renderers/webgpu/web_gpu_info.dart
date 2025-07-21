@@ -1,5 +1,5 @@
-import 'package:three_dart/extra/console.dart';
-import 'package:three_dart/three_dart.dart';
+import 'package:three_dart_flutterflow/extra/console.dart';
+import 'package:three_dart_flutterflow/three_dart.dart';
 
 class WebGPUInfo {
   late bool autoReset;

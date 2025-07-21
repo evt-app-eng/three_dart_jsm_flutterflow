@@ -1,5 +1,5 @@
 import 'index.dart';
-import 'package:three_dart/three_dart.dart' as three;
+import 'package:three_dart_flutterflow/three_dart.dart' as three;
 
 class DodecahedronGeometry extends Geometry {
   DodecahedronGeometry({radius = 0, detail = 0}) : super() {

@@ -7,8 +7,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 
 import 'package:flutter_gl_flutterflow/flutter_gl.dart';
-import 'package:three_dart/three_dart.dart' as three;
-import 'package:three_dart/three_dart.dart' hide Texture, Color;
+import 'package:three_dart_flutterflow/three_dart.dart' as three;
+import 'package:three_dart_flutterflow/three_dart.dart' hide Texture, Color;
 import 'package:three_dart_jsm_flutterflow/three_dart_jsm.dart' hide State;
 
 class SphereData {

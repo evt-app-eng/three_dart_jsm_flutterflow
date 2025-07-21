@@ -1,4 +1,4 @@
-import 'package:three_dart/three3d/math/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/index.dart';
 
 /// Convolution shader
 /// ported from o3d sample to WebGL / GLSL

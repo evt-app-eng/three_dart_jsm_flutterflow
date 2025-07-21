@@ -51,11 +51,11 @@
 // /// 	visible: true,
 // /// 	keepAlive: true
 // /// };
-// import 'package:three_dart/three3d/constants.dart';
-// import 'package:three_dart/three3d/materials/shader_material.dart';
-// import 'package:three_dart/three3d/math/color.dart';
-// import 'package:three_dart/three3d/renderers/shaders/uniforms_utils.dart';
-// import 'package:three_dart/three_dart.dart' as three;
+// import 'package:three_dart_flutterflow/three3d/constants.dart';
+// import 'package:three_dart_flutterflow/three3d/materials/shader_material.dart';
+// import 'package:three_dart_flutterflow/three3d/math/color.dart';
+// import 'package:three_dart_flutterflow/three3d/renderers/shaders/uniforms_utils.dart';
+// import 'package:three_dart_flutterflow/three_dart.dart' as three;
 //
 // class OutlineEffect {
 //   final three.WebGLRenderer renderer;

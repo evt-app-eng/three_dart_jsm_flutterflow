@@ -2,7 +2,7 @@ import 'dart:typed_data';
 
 import 'package:flutter/foundation.dart';
 
-import 'package:three_dart/three_dart.dart' as three;
+import 'package:three_dart_flutterflow/three_dart.dart' as three;
 import '../../extra/console.dart';
 
 /// Utility class for sampling weighted random points on the surface of a mesh.

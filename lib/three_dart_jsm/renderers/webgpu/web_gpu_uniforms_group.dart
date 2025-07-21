@@ -1,5 +1,5 @@
 import 'package:flutter_gl_flutterflow/native-array/index.dart';
-import 'package:three_dart/extra/console.dart';
+import 'package:three_dart_flutterflow/extra/console.dart';
 
 import 'index.dart';
 

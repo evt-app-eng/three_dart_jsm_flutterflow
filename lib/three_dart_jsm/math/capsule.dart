@@ -1,4 +1,4 @@
-import 'package:three_dart/three_dart.dart';
+import 'package:three_dart_flutterflow/three_dart.dart';
 
 class Capsule {
   Capsule([Vector3? start, Vector3? end, double? radius]) {

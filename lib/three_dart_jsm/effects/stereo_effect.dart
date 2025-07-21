@@ -1,6 +1,6 @@
-import 'package:three_dart/three3d/cameras/index.dart';
-import 'package:three_dart/three3d/math/vector2.dart';
-import 'package:three_dart/three_dart.dart' as three;
+import 'package:three_dart_flutterflow/three3d/cameras/index.dart';
+import 'package:three_dart_flutterflow/three3d/math/vector2.dart';
+import 'package:three_dart_flutterflow/three_dart.dart' as three;
 
 class StereoEffect {
   late final StereoCamera _stereo;

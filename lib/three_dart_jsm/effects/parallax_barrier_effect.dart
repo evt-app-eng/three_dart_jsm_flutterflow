@@ -1,11 +1,11 @@
-import 'package:three_dart/three3d/cameras/orthographic_camera.dart';
-import 'package:three_dart/three3d/cameras/stereo_camera.dart';
-import 'package:three_dart/three3d/constants.dart';
-import 'package:three_dart/three3d/geometries/plane_geometry.dart';
-import 'package:three_dart/three3d/materials/shader_material.dart';
-import 'package:three_dart/three3d/objects/mesh.dart';
-import 'package:three_dart/three3d/renderers/web_gl_render_target.dart';
-import 'package:three_dart/three_dart.dart' as three;
+import 'package:three_dart_flutterflow/three3d/cameras/orthographic_camera.dart';
+import 'package:three_dart_flutterflow/three3d/cameras/stereo_camera.dart';
+import 'package:three_dart_flutterflow/three3d/constants.dart';
+import 'package:three_dart_flutterflow/three3d/geometries/plane_geometry.dart';
+import 'package:three_dart_flutterflow/three3d/materials/shader_material.dart';
+import 'package:three_dart_flutterflow/three3d/objects/mesh.dart';
+import 'package:three_dart_flutterflow/three3d/renderers/web_gl_render_target.dart';
+import 'package:three_dart_flutterflow/three_dart.dart' as three;
 
 class ParallaxBarrierEffect {
   final three.WebGLRenderer renderer;

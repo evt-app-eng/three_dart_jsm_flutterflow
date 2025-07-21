@@ -1,8 +1,8 @@
-import 'package:three_dart/three3d/cameras/perspective_camera.dart';
-import 'package:three_dart/three3d/math/math.dart';
-import 'package:three_dart/three3d/math/quaternion.dart';
-import 'package:three_dart/three3d/math/vector3.dart';
-import 'package:three_dart/three_dart.dart' as three;
+import 'package:three_dart_flutterflow/three3d/cameras/perspective_camera.dart';
+import 'package:three_dart_flutterflow/three3d/math/math.dart';
+import 'package:three_dart_flutterflow/three3d/math/quaternion.dart';
+import 'package:three_dart_flutterflow/three3d/math/vector3.dart';
+import 'package:three_dart_flutterflow/three_dart.dart' as three;
 
 class PeppersGhostEffect {
   final three.WebGLRenderer renderer;

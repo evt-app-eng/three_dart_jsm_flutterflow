@@ -1,5 +1,5 @@
 import 'index.dart';
-import 'package:three_dart/three_dart.dart' as three;
+import 'package:three_dart_flutterflow/three_dart.dart' as three;
 
 int _geometryId = 0; // Geometry uses even numbers as Id
 var _geometrym1 = three.Matrix4();
