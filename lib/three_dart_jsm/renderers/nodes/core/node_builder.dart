@@ -1,6 +1,6 @@
 import 'package:three_dart/three_dart.dart';
-import 'package:three_dart_jsm/extra/console.dart';
-import 'package:three_dart_jsm/three_dart_jsm/renderers/nodes/index.dart';
+import 'package:three_dart_jsm_flutterflow/extra/console.dart';
+import 'package:three_dart_jsm_flutterflow/three_dart_jsm/renderers/nodes/index.dart';
 
 var shaderStages = ['fragment', 'vertex'];
 var vector = ['x', 'y', 'z', 'w'];

@@ -1,4 +1,4 @@
-import 'package:three_dart_jsm/three_dart_jsm/renderers/nodes/index.dart';
+import 'package:three_dart_jsm_flutterflow/three_dart_jsm/renderers/nodes/index.dart';
 
 var fSchlick = shaderNode((inputs) {
   var f0 = inputs.f0;

@@ -11,10 +11,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  three_dart_flutterflow:
-    path: ../three_dart_flutterflow
-  flutter_gl_flutterflow:
-    path: ../flutter_gl_flutterflow/flutter_gl
+  three_dart_flutterflow: ^0.0.17
+  flutter_gl_flutterflow: ^0.0.22
   typr_dart: ^0.0.2
   opentype_dart: ^0.0.1
   universal_html: ^2.0.8

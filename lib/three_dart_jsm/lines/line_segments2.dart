@@ -1,4 +1,4 @@
-import 'package:flutter_gl/flutter_gl.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
 import 'package:three_dart/three_dart.dart';
 
 class LineSegments2 extends Mesh {

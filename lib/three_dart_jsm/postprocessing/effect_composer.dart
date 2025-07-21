@@ -1,5 +1,5 @@
 import 'package:three_dart/three_dart.dart';
-import 'package:three_dart_jsm/three_dart_jsm/shaders/index.dart';
+import 'package:three_dart_jsm_flutterflow/three_dart_jsm/shaders/index.dart';
 
 import 'pass.dart';
 import 'shader_pass.dart';

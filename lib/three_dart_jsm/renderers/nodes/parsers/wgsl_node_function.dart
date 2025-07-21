@@ -1,4 +1,4 @@
-import 'package:three_dart_jsm/three_dart_jsm/renderers/nodes/index.dart';
+import 'package:three_dart_jsm_flutterflow/three_dart_jsm/renderers/nodes/index.dart';
 
 var declarationRegexp = RegExp(r"^fn\s*([a-z_0-9]+)?\s*\(([\s\S]*?)\)\s*\-\>\s*([a-z_0-9]+)?", caseSensitive: false);
 var propertiesRegexp = RegExp(r"[a-z_0-9]+", caseSensitive: false);

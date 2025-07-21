@@ -1,4 +1,4 @@
-import 'package:three_dart_jsm/three_dart_jsm/renderers/nodes/index.dart';
+import 'package:three_dart_jsm_flutterflow/three_dart_jsm/renderers/nodes/index.dart';
 
 class NormalNode extends Node {
   static const String geometry = 'geometry';

@@ -1,4 +1,4 @@
-import 'package:three_dart_jsm/extra/console.dart';
+import 'package:three_dart_jsm_flutterflow/extra/console.dart';
 
 class NodeParser {
   parseFunction(source) {

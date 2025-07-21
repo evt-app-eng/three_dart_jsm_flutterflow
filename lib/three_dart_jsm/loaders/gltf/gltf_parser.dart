@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:typed_data';
 import 'package:flutter/foundation.dart';
-import 'package:flutter_gl/flutter_gl.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
 import 'package:three_dart/three_dart.dart';
 import 'index.dart';
 

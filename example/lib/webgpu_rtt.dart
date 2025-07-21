@@ -3,7 +3,7 @@
 // import 'package:flutter/material.dart';
 
 // import 'package:three_dart/three_dart.dart' as THREE;
-// import 'package:three_dart_jsm/three_dart_jsm.dart' as THREE_JSM;
+// import 'package:three_dart_jsm_flutterflow/three_dart_jsm.dart' as THREE_JSM;
 
 // class webgpu_rtt extends StatefulWidget {
 //   String fileName;

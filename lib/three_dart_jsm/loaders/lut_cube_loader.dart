@@ -1,4 +1,4 @@
-import 'package:flutter_gl/flutter_gl.dart';
+import 'package:flutter_gl_flutterflow/flutter_gl.dart';
 import 'package:three_dart/three_dart.dart';
 
 // https://wwwimages2.adobe.com/content/dam/acom/en/products/speedgrade/cc/pdfs/cube-lut-specification-1.0.pdf
